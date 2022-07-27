@@ -5,9 +5,22 @@
 @layer base{
     li{
         @apply px-4;
+        @apply cursor-pointer
     }
     
 }
 .button-animation:hover span{
         @apply rotate-90;
+}
+.wellbeing,.fdm{
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    height:250px;
+}
+.wellbeing:hover{
+    background-image: linear-gradient(to right, rgba(167, 184, 221, 0.8),rgba(97, 92, 229, 0.8)),url('./assets/FDM.png')!important;
+}
+.fdm:hover{
+    background-image: linear-gradient(to right, rgba(167, 184, 221, 0.8),rgba(97, 92, 229, 0.8)),url('./assets/weather_app.png')!important;
 }

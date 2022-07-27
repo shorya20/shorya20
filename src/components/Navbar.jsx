@@ -3,6 +3,13 @@ import {FaBars, FaTimes,FaLinkedin,FaGithub} from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import {BsFillPersonLinesFill} from 'react-icons/bs';
 import Logo from '../assets/logo.png';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+
 const Navbar = () => {
   const [nav,SetNav] = useState(false);
   const handleClick = () => SetNav(!nav);
