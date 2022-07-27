@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shorya20/static/css/main.00881869.css",
-    "main.js": "/shorya20/static/js/main.e3926180.js",
+    "main.js": "/shorya20/static/js/main.f2df3cf7.js",
     "static/media/weather_app.png": "/shorya20/static/media/weather_app.af9977369b1600a25512.png",
     "static/media/java.png": "/shorya20/static/media/java.fdabd4e11f1235e4e8e0.png",
     "static/media/Shorya_first_CV.pdf": "/shorya20/static/media/Shorya_first_CV.c3c6d89c9c1d0b50fd99.pdf",
@@ -13,10 +13,10 @@
     "static/media/javascript.png": "/shorya20/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/shorya20/index.html",
     "main.00881869.css.map": "/shorya20/static/css/main.00881869.css.map",
-    "main.e3926180.js.map": "/shorya20/static/js/main.e3926180.js.map"
+    "main.f2df3cf7.js.map": "/shorya20/static/js/main.f2df3cf7.js.map"
   },
   "entrypoints": [
     "static/css/main.00881869.css",
-    "static/js/main.e3926180.js"
+    "static/js/main.f2df3cf7.js"
   ]
 }
