@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shorya</h1>
 <h3 align="center">A passionate developer studying CS in London</h3>
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, Redux**
+- 🌱 I’m currently learning **Django and Vue**
 
 - 👨‍💻 Here's my portfolio website: [https://shorya20.github.io/shorya20/](https://shorya20.github.io/shorya20/)
 
