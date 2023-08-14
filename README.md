@@ -5,7 +5,7 @@
 
 - 👨‍💻 Here's my portfolio website: [https://shorya20.github.io/shorya20/](https://shorya20.github.io/shorya20/)
 
-- 📫 How to reach me **shorya20@gmail.com**
+- 📫 How to reach me **shoryaoct20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
